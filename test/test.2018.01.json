@@ -1,0 +1,52 @@
+{
+    "items": {
+        "upLeft": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "upRight": [
+            [],
+            [],
+            [],
+            []
+        ],
+        "downLeft": [
+            [],
+            [],
+            [],
+            [
+                {
+                    "label": "Akka (Scala)",
+                    "moved": 0
+                },
+                {
+                    "label": "Node.js",
+                    "moved": 0
+                }
+            ]
+        ],
+        "downRight": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "settings": {
+        "quadrants": {
+            "downRight": "Languages",
+            "downLeft": "Infrastructure",
+            "upLeft": "Frameworks",
+            "upRight": "Data Management"
+        },
+        "rings": [
+            "ADOPT",
+            "TRIAL",
+            "ASSESS",
+            "HOLD"
+        ],
+        "description": "Test."
+    }
+}
