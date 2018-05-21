@@ -1,0 +1,19 @@
+# Project: Tech Radar Sample
+# Date: 2018.01
+# Author: Bojun Chen (BChen9@slb.com)
+# Description: Tech Radar Sample.
+# Quadrants: downRight=Languages, downLeft=Infrastructure, upLeft=Frameworks, upRight=Data Management
+# Rings: ring1=ADOPT, ring2=TRIAL, ring3=ASSESS, ring4=HOLD
+// Name: less than 17 characters
+// Quadrant: downRight, downLeft, upLeft, upRight, none
+// Ring: ring1, ring2, ring3, ring4, none
+// Moved: in, out, none
+// Deleted: true, false
+// Items: Name, Quadrant, Ring, Status, Comment
+Javascript, downRight, ring1, in, Javascript
+C#, downRight, ring2, none, C#
+Azure Function, downLeft, ring2, none, Azure Function
+Azure Service Fabric, downLeft, ring1, none, Azure Service Fabric
+RabbitMQ, upRight, ring3, none, RabbitMQ
+.Net, upLeft, ring1, none, .Net
+Angular, upLeft, ring2, none, Angula
