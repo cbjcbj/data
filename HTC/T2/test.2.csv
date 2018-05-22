@@ -1,0 +1,17 @@
+# Project: Test2
+# Date: 2018.01
+# Author: Bojun Chen (BChen9@slb.com)
+# Description: Tech Radar Sample.
+# Quadrants: downRight=Languages, downLeft=Infrastructure, upLeft=Frameworks, upRight=Data Management
+# Rings: ring1=ADOPT, ring2=TRIAL, ring3=ASSESS, ring4=HOLD
+// Name: less than 20 characters
+// Quadrant: downRight, downLeft, upLeft, upRight, none
+// Ring: ring1, ring2, ring3, ring4, none
+// Moved: in, out, none
+// Deleted: true, false
+// Items: Name, Quadrant, Ring, Status, Comment
+// down-right quadrant, Languages
+JavaScript, downRight, ring1, in, JavaScript, good to use!
+C#, downRight, ring2, none, C#
+// up-right quadrant, Data Management
+RabbitMQ, upRight, ring3, none, RabbitMQ
